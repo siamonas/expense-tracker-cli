@@ -1,4 +1,4 @@
-# Expense Tracke CLI
+# Expense Tracker CLI
 
 ## Description
 The Expense Tracker CLI is a Python-based command-line tool designed to help users track their expenses. It leverages the `rich` library to provide a user-friendly interface for adding, viewing, and managing expenses. The tool supports various features such as categorizing expenses, generating reports, and more.
