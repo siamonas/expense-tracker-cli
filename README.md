@@ -7,7 +7,7 @@ It is inspired from the [Expense Tracker](https://roadmap.sh/projects/expense-tr
 
 ## Features
 - **Add Expenses**: Easily add new expenses with details such as amount, category, and description.
-- **Delete Expenses**: 
+- **Delete Expenses**: Delete an expense based on its ID.
 - **View Expenses**: Display a list of all recorded expenses.
 - **Categorize Expenses**: Organize expenses into different categories for better tracking.
 - **Generate Reports**: Create summary reports of expenses over a specified period.
@@ -20,7 +20,7 @@ It is inspired from the [Expense Tracker](https://roadmap.sh/projects/expense-tr
 1. **Clone the Repository**:
    ``` python
    git clone https://github.com/siamonas/expense-tracker-cli.git
-   cd expense-tracker-cli ```
+   cd expense-tracker-cli
 2. Create and Activate a Virtual Environment
    ```sh
    python -m venv venv
